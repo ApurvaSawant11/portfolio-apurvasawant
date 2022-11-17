@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        overlay: "#80808061",
+        darkblue: "#213053",
       },
     },
     fontFamily: {
