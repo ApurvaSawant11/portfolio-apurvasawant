@@ -70,7 +70,7 @@ const Projects = () => {
       src: Webpack,
       title: "Webpack Starter",
       desc: "A vanillaJS webpack starter",
-      live: "",
+      live: "https://webpack-starter-apurva.netlify.app/",
       repo: "https://github.com/ApurvaSawant11/webpack-starter",
       tech: [],
     },
